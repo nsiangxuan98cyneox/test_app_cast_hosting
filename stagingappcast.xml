@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Staging Version 1.0.2</title>
+        <item>
+            <title>Version 1.0.2</title>
+            <description>update message......</description>
+            <pubDate>Mon, 26 Jun 2023 18:26:29 +0000</pubDate>
+            <enclosure url="https://tkash-pub.s3.ap-southeast-1.amazonaws.com/production/tKash-Production-v1.0.2(12).apk" sparkle:version="1.0.2" />
+        </item>
+    </channel>
+</rss>
