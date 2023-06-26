@@ -7,6 +7,7 @@
             <description>update message......</description>
             <pubDate>Mon, 26 Jun 2023 18:26:29 +0000</pubDate>
             <enclosure url="https://tkash-pub.s3.ap-southeast-1.amazonaws.com/production/tKash-Production-v1.0.2(12).apk" sparkle:version="1.0.2" />
+            <sparkle:version>1.0.2</sparkle:version>
         </item>
     </channel>
 </rss>
